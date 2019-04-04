@@ -12,3 +12,4 @@ Mais especificamente, para concluir o projeto você deverá executar as seguintes 
 7-Submeta um pull-request para o repositório da disciplina;
 8-Seu projeto será considerado entregue quando suas contribuições aparecerem no repositório da disciplina.
 O prazo de entrega do pull-request será até 08/04/2019 às 23:59. 
+
